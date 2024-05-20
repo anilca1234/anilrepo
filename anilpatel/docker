@@ -1,0 +1,8 @@
+docker file creation 
+
+
+ADD
+FROM
+COPY
+ENTRYPOINT
+CMD
